@@ -1,2 +1,2 @@
-# practice
-my first repository for practice
+completed
+i am practice
